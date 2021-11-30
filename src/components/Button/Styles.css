@@ -1,0 +1,15 @@
+.btn-style{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: aqua;
+    box-shadow: 10px 10px 8px black;
+    cursor: pointer;
+}
+
+.btn-style:active{
+    transform: translateY(5px);
+    box-shadow: 5px 5px 4px black;
+
+}
